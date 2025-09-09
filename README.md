@@ -1,9 +1,7 @@
-# BIOL-341-Fall-2025
-
-# Applied-Bioinformatics-Spring-2025 Learning Objectives, Date created/updated: April, 9, 2025.
+# Applied-Bioinformatics-Spring-2025 Learning Objectives, Date created/updated: December, 9, 2024.
  Bioinformatics (topics including Introduction to genomics/proteomics/bioinformatics, sequence alignment algorithms, scoring matrices, microarray analysis, phylogenetic analysis, bootstrapping, tree plot rooted, unrooted tree structure, building, secondary & tertiary structure prediction, homology modeling, and protein folding)], visualization: heat maps, volcano plots, pie charts, Gene expression Microarray data analysis, Sequence alignments (Margaret Dayhoff, PAM, blossom scoring matrices, global & local alignment). Gene Expression Omnibus (GEO) datasets mining, Microarray data analysis: Read, Pre-processing/Normalization (Affy, Oligo, Limma-RMA, Quantile, Mas5.0), Visualization: Heat maps, box plots, Fold change expression analysis, Gene Set Enrichment Analysis (GSEA), Pathways and protein downstream interactome analysis. National Center for Biotechnology Information (NCBI)  Basic Local Alignment Search Tool (BLAST) techniques: https://youtu.be/dgehxC9tJVc
 ^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
-[Applied Bioinformatics BIOL 441 Fall 2023 4 Credit.](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bio-biol441-4-credit)
+[Applied Bioinformatics BIOL441 Fall 2023 4 Credit.](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bioinformatics-biol44-2)
 ![download](https://github.com/user-attachments/assets/648b313b-5a68-4523-88a5-ad132e098f82)
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
