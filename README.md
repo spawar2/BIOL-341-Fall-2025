@@ -4,7 +4,7 @@
 [Applied Bioinformatics BIOL441 Fall 2023 4 Credit.](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bioinformatics-biol44-2)
 ![download](https://github.com/user-attachments/assets/648b313b-5a68-4523-88a5-ad132e098f82)
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
-
+Student Evaluations (2021-2026): https://www.claflin-computation.com/_files/ugd/81dd80_ae28e89ed22e41c39513d1764b5c9628.pdf
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 [R: affy, rBLAST, ape, phangorn, phytools, geiger].
